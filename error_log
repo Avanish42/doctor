@@ -1,0 +1,9 @@
+[19-Jul-2017 16:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 578
+[19-Jul-2017 16:37:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 578
+[19-Jul-2017 16:39:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 580
+[20-Jul-2017 16:30:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{' in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 582
+[20-Jul-2017 16:32:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function send_password_mobile() in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 602
+[21-Jul-2017 10:17:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 657
+[21-Jul-2017 12:27:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_review() in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 182
+[21-Jul-2017 12:41:04 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 187
+[21-Jul-2017 12:48:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/themes91/public_html/pankaj/doctor/application/controllers/Webservice.php on line 184

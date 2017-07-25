@@ -493,7 +493,7 @@ class Webservice extends CI_Controller
          $data['role']='role';
         // $data['image']=$updatedbarimage;
 
-         if(  $this->Merchant_model->merchant_insert($data))
+         if( $data['id'] =$this->Merchant_model->merchant_insert($data))
          {
             $data['image']= $updatedbarimage?base_url($updatedbarimage):"";
             $raw_data=array('status'=>"true",
